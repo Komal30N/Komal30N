@@ -1,6 +1,6 @@
 ## Hi, I'm Komal  </br>
 💻 Information Technology (IT) student at AKGEC </br>
-🔧 Tech I work with: Dart, Flutter, Firebase, React, JavaScript, C++, and SQL </br>
+🔧 Tech I work with: Dart, Flutter, Firebase, C++, and MySQL </br>
 📱 Flutter Enthusiast  
 
 
